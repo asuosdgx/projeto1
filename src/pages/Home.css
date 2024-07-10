@@ -1,0 +1,34 @@
+.top {
+  width: 100%;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("punk2.jpg");
+  background-size: cover;
+  background-position: 0%;
+}
+.tit-home {
+  margin: 0;
+  text-align: center;
+  background-color: beige;
+}
+.gallery {
+  display: flex;
+
+  justify-content: space-evenly;
+  background-color: #121212;
+}
+.skull {
+  margin: 20px;
+  text-align: center;
+  width: 25%;
+}
+.card-head {
+  background-color: antiquewhite;
+  font-style: italic;
+  font-size: large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: black;
+}

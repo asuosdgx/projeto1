@@ -1,0 +1,28 @@
+.container {
+  width: 100%;
+  text-align: center;
+}
+.container h1 {
+  font-size: 4rem;
+}
+.container p {
+  margin-top: 16px;
+}
+.tebs {
+  display: flex;
+  justify-content: space-around;
+  color: antiquewhite;
+}
+.aba {
+  color: black;
+}
+.lista {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.lista a {
+  color: black;
+  font-size: large;
+}

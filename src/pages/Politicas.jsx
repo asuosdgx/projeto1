@@ -1,0 +1,12 @@
+function Politicas() {
+    return (
+        <>
+            <h1>Politicas de Privacidade</h1>
+            <p>
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores tempora ipsum repellendus eius eos magni doloribus impedit nesciunt id maxime fuga rerum ut error expedita inventore saepe sit aut, ipsam, nostrum corporis sequi aliquid explicabo cupiditate. In qui tempora dicta officiis corrupti aperiam laudantium, neque cumque itaque fugiat et fugit reiciendis hic debitis natus rerum. Vero soluta explicabo minus necessitatibus exercitationem atque maxime blanditiis. Sed ullam eum labore esse, consequatur iste soluta deserunt vel ipsam similique dignissimos consequuntur officiis, voluptatibus tempora asperiores eveniet minus voluptatem necessitatibus explicabo natus officia aut. Dolorem tempora iste aliquid, libero fuga beatae soluta nostrum earum modi dolorum! Eius fuga enim laboriosam repellat ipsa fugit illum impedit est ex, dolores nostrum modi incidunt, expedita mollitia, quibusdam placeat ullam saepe aliquam architecto error sapiente debitis numquam sit dolore? Sed, culpa veritatis consequuntur necessitatibus impedit vitae earum recusandae enim reiciendis qui fuga temporibus quidem commodi quo nostrum provident et non cumque! Veniam placeat illum excepturi maxime odit aperiam aliquid, omnis consequuntur corrupti facere commodi nemo iste error delectus quasi ducimus maiores alias magni! Nesciunt iusto sequi esse, ratione est voluptas ut laborum accusamus debitis minima dolore iure, magni reiciendis veritatis molestias praesentium. Libero aut ut assumenda ex quibusdam, earum neque sapiente laudantium corrupti adipisci quas repudiandae, ad quisquam repellendus alias, nesciunt ducimus aperiam. Architecto nemo fugiat soluta voluptas, at doloribus in quidem odit laborum modi aperiam, perspiciatis neque, debitis repudiandae distinctio nostrum fuga nam illo blanditiis culpa tenetur corporis? Officia, aut reiciendis, deleniti maxime cupiditate magnam necessitatibus perferendis unde voluptatibus pariatur quis error accusantium amet adipisci aliquid nam. Provident, deleniti mollitia pariatur quis quasi, illum similique rem sed dicta quam fuga. Delectus blanditiis sint vel. Tempora harum, atque placeat asperiores eius dicta temporibus maiores aliquam dolorum repellendus non, dolores adipisci quisquam exercitationem aspernatur aperiam neque. Veritatis, quod vero!
+            </p>
+        </>
+    )
+}
+
+export default Politicas
