@@ -19,7 +19,7 @@ function Menu() {
                             <Link className="nav-link" to="/cadastro">Cadastro</Link>
                             <Link className="nav-link" to="/ajuda">Ajuda</Link>
                             <Link className="nav-link" to="*">Not Found</Link>
-                            <Link className="nav-link" to="/pol">Politicas</Link>
+                            <Link className="nav-link" to="/novatarefa">Nova Tarefa</Link>
                         </Nav>
                     </NavbarCollapse>
                 </Container>
